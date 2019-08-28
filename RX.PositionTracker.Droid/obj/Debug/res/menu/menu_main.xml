@@ -1,0 +1,1 @@
+<menu xmlns:myapp="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/action_exit" android:icon="@mipmap/ic_exit" myapp:showAsAction="always" /></menu>
